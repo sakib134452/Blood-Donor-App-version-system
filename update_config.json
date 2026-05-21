@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.6",
-  "min_required_version": "1.2.4",
+  "latest_version": "1.2.7",
+  "min_required_version": "1.2.6",
   "update_url": "https://github.com/sakib134452/InterGuard/releases/latest/download/InterGuard.apk",
   "release_notes": "সর্বশেষ ভার্সন চলে এসেছে!\nওয়েবসাইট থেকে ডাউনলোড করে, আগের টা আনইনস্টল করে নতুন তা ইনস্টল করে নিন!\nসকল ধরণের সমস্যা ও বাগ ফিক্স করা হয়েছে সেখানে।",
   "force_update_message": "এই আপডেটটি বাধ্যতামূলক। অ্যাপ ব্যবহার চালিয়ে যেতে দয়া করে আপডেট করুন।"
